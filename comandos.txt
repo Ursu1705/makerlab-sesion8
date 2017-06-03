@@ -2,3 +2,6 @@ touch nombre_de_archivo: Crea archivos en la carpeta
 ls: listar archivos
 mkdir nombre_de_carpeta: Crea carpeta
 cd nombre_de_carpeta: Cambiar carpeta en la que te ubicas
+cd .. :Para regresar a la carpeta padre.
+git add. :Prepara los archivos para commit.
+git status: Muestra los archivoos que están en preparación.
